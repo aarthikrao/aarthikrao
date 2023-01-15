@@ -1,12 +1,10 @@
 ### 👋 Hi there, I'm Aarthik Rao
-I like gaming, distributed systems, UX design.
-
+I like gaming, distributed systems, UX design and philosophy.
 - 🔭 I’m currently working on and looking for help with [TimeMachine DB 🐓](https://github.com/aarthikrao/timeMachine)
 - 🌱 I’m currently learning 🤹🏽‍♂️ distributed systems and 👽 astronomy 
 - 📫 How to reach me: aaarthik@gmail.com
 
-### 🦄 Some of my favorite tech, in no specific order
-
+### 🦄 My favorite tech, in no specific order
 [![Apache Kafka](https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg)](https://kafka.apache.org/)
 [![Raspberry Pi](https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg)](https://www.raspberrypi.org/)
 [![Arduino](https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg)](https://www.arduino.cc/)
@@ -20,8 +18,8 @@ I like gaming, distributed systems, UX design.
 
 ### 📚 My favorite books, in no specific order
 * Sapiens by Yuval Noah Harari
-* Designing Data intensive applications by Martin Kleppmann
-* Loosing my virginity by Richard Branson
+* Designing Data-intensive applications by Martin Kleppmann
+* Losing my virginity by Richard Branson
 * An era of darkness by Shashi Tharoor
 * Factfulness
 * Good economics for bad times by Abhijit V. Banerjee and Esther Duflo
