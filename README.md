@@ -4,14 +4,16 @@ I like gaming, distributed systems, UX design and philosophy.
 - 🌱 I’m currently learning 🤹🏽‍♂️ distributed systems and 👽 astronomy 
 - 📫 How to reach me: aaarthik@gmail.com
 
-### 🦄 My favorite tech, in no specific order
+### 🦄 I work mainly on
 [![Apache Kafka](https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg)](https://kafka.apache.org/)
-[![Raspberry Pi](https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg)](https://www.raspberrypi.org/)
-[![Arduino](https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg)](https://www.arduino.cc/)
 [![Golang](https://www.vectorlogo.zone/logos/golang/golang-icon.svg)](https://go.dev/)
 [![Redis](https://www.vectorlogo.zone/logos/redis/redis-icon.svg)](https://redis.io/)
 [![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg)](https://www.mongodb.com/)
 [![ScyllaDB](https://www.vectorlogo.zone/logos/scylladb/scylladb-icon.svg)](https://www.scylladb.com/)
+[![GRPC](https://www.vectorlogo.zone/logos/grpcio/grpcio-icon.svg)](https://grpc.io/)
+### 🧞‍♂️ Im also fascinated by
+[![Arduino](https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg)](https://www.arduino.cc/)
+[![Raspberry Pi](https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg)](https://www.raspberrypi.org/)
 [![Apache Druid](https://www.vectorlogo.zone/logos/druidio/druidio-icon.svg)](https://druid.apache.org/)
 [![CockroachDB](https://www.vectorlogo.zone/logos/cockroachlabs/cockroachlabs-icon.svg)](https://www.cockroachlabs.com/)
 [![Postgres](https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg)](https://www.postgresql.org/)
